@@ -1,5 +1,4 @@
-# OmenFlight
-<img src="https://sun9-west.userapi.com/sun9-13/s/v1/ig2/AQK9TKQ2ldo2BUNW-Sp_ve1xWk-dAHddHVV4msr1e0tqBDPKSjt5L4MzP-l8sv-PUXDvYNEG9gfNB3YJZXWrX8YX.jpg?size=900x900&quality=95&type=album" alt="Logo" width="80" height="80">
+# OmenFlight <img src="https://sun9-west.userapi.com/sun9-13/s/v1/ig2/AQK9TKQ2ldo2BUNW-Sp_ve1xWk-dAHddHVV4msr1e0tqBDPKSjt5L4MzP-l8sv-PUXDvYNEG9gfNB3YJZXWrX8YX.jpg?size=900x900&quality=95&type=album" alt="Logo" width="60" height="60">
 OmenFlight AI is an open-source computer vision program for recognizing birds on video. Our artificial intelligence program will help cameras quickly and accurately recognize birds within the radius of dangerous zones, so that bird scaring devices can prevent cases of birds interacting with deadly zones in time. 
 
 ## Description
