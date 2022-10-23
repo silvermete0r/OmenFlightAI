@@ -7,7 +7,7 @@ OmenFlight AI is an open-source computer vision program for recognizing birds on
 
 ## Description
 Main Problems:
-* <b>Collision of birds with airplanes</b>: Every year, bird collisions with aircraft cause significant harm to airlines in terms of damage to important components of the aircraft, delays and cancellations of flights. According to the International Civil Aviation Organization (ICAO), there are 34 bird collisions with aircraft per day in the world. The total annual damage caused by the collision of birds with airplanes exceeds $ 1.2 billion, also more than 200 people die, and about 100 aircraft fail [<a href="https://www.inventiva.co.in/trends/what-are-bird-strikes-3-potential-risks-to-the-aviation-industry-how-do-pilots-and-airports-tackle-them/">1</a>]. In Kazakhstan, according to Forbes for 2022, more than 100 aircraft collisions with birds have already occurred, which is why flights were often delayed and closed [<a href="https://forbes.kz/process/100_straykov_za_god_pochemu_v_kazahstanskie_samoletyi_vse_chasche_popadayut_ptitsyi/">2</a>].
+* <b>Collision of birds with airplanes</b>: Every year, bird collisions with aircraft cause significant harm to airlines in terms of damage to important components of the aircraft, delays and cancellations of flights. According to the International Civil Aviation Organization (ICAO), there are 34 bird collisions with aircraft per day in the world. The total annual damage caused by the collision of birds with airplanes exceeds $ 1.2 billion, also more than 200 people die, and about 100 aircraft fail every year [<a href="https://www.inventiva.co.in/trends/what-are-bird-strikes-3-potential-risks-to-the-aviation-industry-how-do-pilots-and-airports-tackle-them/">1</a>]. In Kazakhstan, according to Forbes for 2022, more than 100 aircraft collisions with birds have already occurred, which is why flights were often delayed and closed [<a href="https://forbes.kz/process/100_straykov_za_god_pochemu_v_kazahstanskie_samoletyi_vse_chasche_popadayut_ptitsyi/">2</a>].
 * <b>Birds colliding with power lines</b>: 
 * <b>Collision of birds with wind farms</b>: 
 
@@ -59,7 +59,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
