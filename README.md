@@ -1,8 +1,35 @@
 # OmenFlight
 
-OmenFlight AI is an open-source computer vision program for recognizing birds on video. Our artificial intelligence program will help cameras quickly and accurately recognize birds within the radius of dangerous zones, so that bird scaring devices can prevent cases of birds interacting with deadly zones in time.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</div>
+
+OmenFlight AI is an open-source computer vision program for recognizing birds on video. Our artificial intelligence program will help cameras quickly and accurately recognize birds within the radius of dangerous zones, so that bird scaring devices can prevent cases of birds interacting with deadly zones in time. 
 
 ## Description
+Main Problems:
+* Collision of birds with airplanes: 
+* Birds colliding with power lines: 
+* Collision of birds with wind farms: 
 
 Our main goal is to prevent birds from colliding with important infrastructure facilities.Thus we solve 2 problems at once:
 1) We are reducing the mortality rate of birds, which play an important role in local ecosystems.
