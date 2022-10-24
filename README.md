@@ -31,9 +31,9 @@ Therefore, as a solution, we are developing a computer vision program that will 
     - [x] Copyright certificate.
     - [x] Other important documents.
 - [x] Popularization of the idea:
-    - [x] Competitions.
-    - [x] Conferences.
-    - [x] Social Media.
+    - [ ] Competitions.
+    - [ ] Conferences.
+    - [ ] Social Media.
 - [ ] Research the problem of birds colliding with airplane in practice.
 - [ ] Get more than 1000 high-quality photos for training the Haar cascade model based on machine learning.
 - [ ] Train the algorithm to 92%+ accuracy of bird recognition based on thousands of positive and negative data.
