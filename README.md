@@ -40,8 +40,11 @@ Therefore, as a solution, we are developing a computer vision program that will 
 - [ ] Optimize the bird recognition program to reduce delays and improve real-time performance.
 - [ ] Development of a test model of an automated bird-repelling device based on Raspberry PI.
 - [ ] Gradual integration of technology into airports
-    - [ ] Kazakhstan (Almaty)
+    - [ ] Kazakhstan (Almaty, Astana & Aktobe)
     - [ ] Kyrgyzstan (Manas)
+- [ ] Improving technology, expanding capabilities, increasing accuracy, speed and reliability:
+    - [ ] Solving the problem of birds colliding with power lines.
+    - [ ] Solving the problem of birds colliding with wind farms.
 
 ## Getting Started
 
