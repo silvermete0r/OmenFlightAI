@@ -24,13 +24,15 @@ Our main goal is to prevent birds from colliding with important infrastructure f
 
 At the moment, there are quite effective methods of scaring birds in the world, such as: bioacoustic, laser, gas and visual devices for scaring birds. But the problem lies in their timely activation and control of these devices. 
 
-Therefore, as a solution, we are developing a computer vision program that will be able to detect birds within the radius of dangerous zones and activate bird scaring devices in time.
+Therefore, as a solution, we are developing a **computer vision program that will be able to detect birds within the radius of dangerous zones and activate bird scaring devices in time.**
 
 Now, our solution works on the basis of an open library of computer vision and algorithms of the Haar cascade. For the first stage of practical application of our program, we plan to use Haar feature algorithms, and we will also experimentally create a program based on LBP (Local Binary Pattern) for fast detection of birds in real time.
 
 Comparing the effectiveness of 2 algorithms on real practical testing, we will come to one solution. Below, you can see a theoretical comparison:
 
 [![Comparison-Haar-LBP][link]](https://medium.com/mindboard/a-deep-learning-solution-to-detect-and-mask-human-faces-in-videos-ad1451e89350)
+
+**Our task is to create a reliable and fast computer vision program capable of detecting birds in the frame with an accuracy of more than 95% in real time (without delays).**
 
 ## Roadmap
 
