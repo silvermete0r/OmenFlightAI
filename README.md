@@ -5,6 +5,35 @@
 </div>
 OmenFlight AI is an open-source computer vision program for recognizing birds on video. Our artificial intelligence program will help cameras quickly and accurately recognize birds within the radius of dangerous zones, so that bird scaring devices can prevent cases of birds interacting with deadly zones in time. 
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary><b>Table of Contents</b></summary>
+  <ol>
+    <li>
+      <a href="#description">Description</a>
+      <ul>
+        <li><a href="#main-problem">Main Problem</a></li>
+        <li><a href="#our-goal">Our Goal</a></li>
+        <li><a href="#our-solution">Our Solution</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#dependencies">Dependencies</a></li>
+        <li><a href="#installing">Installing</a></li>
+        <li><a href="#executing-program">Executing Program</a></li>
+      </ul>
+    </li>
+    <li><a href="#help">Help</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#version-history">Version History</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ## Description
 
 ### Main Problem
@@ -33,6 +62,8 @@ Comparing the effectiveness of 2 algorithms on real practical testing, we will c
 [![Comparison-Haar-LBP][link]](https://medium.com/mindboard/a-deep-learning-solution-to-detect-and-mask-human-faces-in-videos-ad1451e89350)
 
 **Our task is to create a reliable and fast computer vision program capable of detecting birds in the frame with an accuracy of more than 95% in real time (without delays).**
+
+[![Birds-Test-Screen][birds-test]](#)
 
 ## Roadmap
 
@@ -129,4 +160,8 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 * [Haar-Cascades-Training](https://github.com/mrnugget/opencv-haar-classifier-training)
 
 
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[birds-test]: https://sun9-west.userapi.com/sun9-5/s/v1/ig2/_F_u3FaRel-aT3OEO25hPe2BxMDfJn-qlUfwvDemc17tVL4TkW8JpvSSEKkQ_Fgl7yjnBIY9ofedUPffSbHQ9AfK.jpg?size=2224x1098&quality=95&type=album
 [link]: https://miro.medium.com/max/1100/1*iLS7tWM9hfWNZGeBnv3qgA.png
